@@ -81,7 +81,7 @@ Dataset used in this project was sourced from **[Kaggle - Netflix Movies and TV 
 
 **Yoganantham M**
 * yoganantham1710@gmail.com
-* 📧 linkedin.com/in/yoganantham-m-2k3
-* 💻 Passionate about Data Visualization | Business Intelligence | Analytics
+* linkedin.com/in/yoganantham-m-2k3
+* Passionate about Data Visualization | Business Intelligence | Analytics
 
 
