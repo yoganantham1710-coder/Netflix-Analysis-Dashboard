@@ -80,8 +80,8 @@ Dataset used in this project was sourced from **[Kaggle - Netflix Movies and TV 
 ## 💡 Author
 
 **Yoganantham M**
-yoganantham1710@gmail.com
-📧 linkedin.com/in/yoganantham-m-2k3
-💻 Passionate about Data Visualization | Business Intelligence | Analytics
+* yoganantham1710@gmail.com
+* 📧 linkedin.com/in/yoganantham-m-2k3
+* 💻 Passionate about Data Visualization | Business Intelligence | Analytics
 
 
